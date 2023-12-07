@@ -4,7 +4,7 @@ import './../styles/App.css';
 const allData = [
   { "ID": 1, "name": "Ram", "age": 25 },
   { "ID": 2, "name": "Shyam", "age": 30 },
-  { "ID": 3, "name": "All", "age": 35 },
+  { "ID": 3, "name": "Ali", "age": 99 },
   { "ID": 4, "name": "Shaw", "age": 20 },
   { "ID": 5, "name": "Tavneet", "age": 50 },
   { "ID": 5, "name": "Lakshmi", "age": 40 }
